@@ -1,6 +1,6 @@
-# Sistema Bancário
+# 🏛 Sistema Bancário
 
-## Projeto em desenvolvimento com o objetivo de apresentar ao usuário opções de um sistema de banco para atender a opção desejada:
+## Projeto em desenvolvimento com o objetivo de apresentar ao usuário opções de um sistema bancáro e através da sua escolha, executar a opção desejada:
 
 ### Na lista de opções apresentada ao usuário temos:
 
@@ -8,5 +8,10 @@
 * Sacar
 * Extrato
 * Sair
+
+---
+
+
+
 
 
