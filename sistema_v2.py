@@ -101,7 +101,9 @@ def listar_contas(contas):
         print("#" * 100)
         print(textwrap.dedent(linha))
 
+
 def main():
+
     LIMITE_SAQUES = 3
     AGENCIA = "0001"
 
@@ -155,12 +157,3 @@ def main():
 
         else:
             print("Operação Inválida, por favor selecione a operação desejada.")
-        
-        
-
-        
-
-    
-    
-            
-            
